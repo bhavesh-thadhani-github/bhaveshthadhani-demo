@@ -1,4 +1,4 @@
 # bhaveshthadhani-demo
 This is my first Git Repository.
 <br>
-Author - Bhavesh Thadhani
+Author - Bhavesh (Human Being)
